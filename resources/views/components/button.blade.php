@@ -1,0 +1,1 @@
+<button class=" px-4 py-2 bg-purple-500 rounded-full text-white ">{{$slot}}</button>
